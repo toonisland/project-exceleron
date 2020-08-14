@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Exceleron", "Project Exceleron\Project Exceleron.csproj", "{75DEC91C-C09A-46F3-ABF4-CB56C13797C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeKillMongo", "SafeKillMongo\SafeKillMongo.csproj", "{7311350F-1499-4E9B-BC6E-62995B0B22ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DEC91C-C09A-46F3-ABF4-CB56C13797C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DEC91C-C09A-46F3-ABF4-CB56C13797C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DEC91C-C09A-46F3-ABF4-CB56C13797C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DEC91C-C09A-46F3-ABF4-CB56C13797C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7311350F-1499-4E9B-BC6E-62995B0B22ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7311350F-1499-4E9B-BC6E-62995B0B22ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7311350F-1499-4E9B-BC6E-62995B0B22ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7311350F-1499-4E9B-BC6E-62995B0B22ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

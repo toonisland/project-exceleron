@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Exceleron</id>
+        <version>1.0.3</version>
+        <title>Altis Exceleron</title>
+        <authors>Project Altis Team</authors>
+        <owners>Project Altis Team</owners>
+        <projectUrl>https://projectaltis.com</projectUrl>
+        <iconUrl>https://projectaltis.com/favicon.ico</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>ALTIS STAFF USE ONLY</description>
+        <copyright>Copyright 2017 Project Altis Team</copyright>
+        <language>en-US</language>
+    </metadata>
+    <files>
+        <file src="Project Exceleron\bin\Release\Resources\SafeKillMongo.exe" target="lib\net45\Resources\SafeKillMongo.exe" />
+        <file src="Project Exceleron\bin\Release\ConsoleControl.dll" target="lib\net45\ConsoleControl.dll" />
+        <file src="Project Exceleron\bin\Release\ConsoleControl.pdb" target="lib\net45\ConsoleControl.pdb" />
+        <file src="Project Exceleron\bin\Release\ConsoleControl.xml" target="lib\net45\ConsoleControl.xml" />
+        <file src="Project Exceleron\bin\Release\ConsoleControlAPI.dll" target="lib\net45\ConsoleControlAPI.dll" />
+        <file src="Project Exceleron\bin\Release\ConsoleControlAPI.pdb" target="lib\net45\ConsoleControlAPI.pdb" />
+        <file src="Project Exceleron\bin\Release\ConsoleControlAPI.xml" target="lib\net45\ConsoleControlAPI.xml" />
+        <file src="Project Exceleron\bin\Release\DeltaCompressionDotNet.dll" target="lib\net45\DeltaCompressionDotNet.dll" />
+        <file src="Project Exceleron\bin\Release\DeltaCompressionDotNet.MsDelta.dll" target="lib\net45\DeltaCompressionDotNet.MsDelta.dll" />
+        <file src="Project Exceleron\bin\Release\DeltaCompressionDotNet.PatchApi.dll" target="lib\net45\DeltaCompressionDotNet.PatchApi.dll" />
+        <file src="Project Exceleron\bin\Release\ICSharpCode.SharpZipLib.dll" target="lib\net45\ICSharpCode.SharpZipLib.dll" />
+        <file src="Project Exceleron\bin\Release\ICSharpCode.SharpZipLib.xml" target="lib\net45\ICSharpCode.SharpZipLib.xml" />
+        <file src="Project Exceleron\bin\Release\Microsoft.WindowsAPICodePack.dll" target="lib\net45\Microsoft.WindowsAPICodePack.dll" />
+        <file src="Project Exceleron\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll" target="lib\net45\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll" />
+        <file src="Project Exceleron\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll" target="lib\net45\Microsoft.WindowsAPICodePack.Sensors.dll" />
+        <file src="Project Exceleron\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll" target="lib\net45\Microsoft.WindowsAPICodePack.Shell.dll" />
+        <file src="Project Exceleron\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll" target="lib\net45\Microsoft.WindowsAPICodePack.ShellExtensions.dll" />
+        <file src="Project Exceleron\bin\Release\Mono.Cecil.dll" target="lib\net45\Mono.Cecil.dll" />
+        <file src="Project Exceleron\bin\Release\Mono.Cecil.Mdb.dll" target="lib\net45\Mono.Cecil.Mdb.dll" />
+        <file src="Project Exceleron\bin\Release\Mono.Cecil.Pdb.dll" target="lib\net45\Mono.Cecil.Pdb.dll" />
+        <file src="Project Exceleron\bin\Release\Mono.Cecil.Rocks.dll" target="lib\net45\Mono.Cecil.Rocks.dll" />
+        <file src="Project Exceleron\bin\Release\NuGet.Squirrel.dll" target="lib\net45\NuGet.Squirrel.dll" />
+        <file src="Project Exceleron\bin\Release\NuGet.Squirrel.pdb" target="lib\net45\NuGet.Squirrel.pdb" />
+        <file src="Project Exceleron\bin\Release\Project Exceleron.exe" target="lib\net45\Project Exceleron.exe" />
+        <file src="Project Exceleron\bin\Release\Project Exceleron.exe.config" target="lib\net45\Project Exceleron.exe.config" />
+        <file src="Project Exceleron\bin\Release\Project Exceleron.pdb" target="lib\net45\Project Exceleron.pdb" />
+        <file src="Project Exceleron\bin\Release\Splat.dll" target="lib\net45\Splat.dll" />
+        <file src="Project Exceleron\bin\Release\Splat.pdb" target="lib\net45\Splat.pdb" />
+        <file src="Project Exceleron\bin\Release\Squirrel.dll" target="lib\net45\Squirrel.dll" />
+        <file src="Project Exceleron\bin\Release\Squirrel.pdb" target="lib\net45\Squirrel.pdb" />
+    </files>
+</package>
